@@ -13,7 +13,7 @@
 | Webpage | [izbicki.me](https://izbicki.me) |
 | Research | Machine Learning (see [izbicki.me/research.html](https://izbicki.me/research.html) for some past projects) |
 
-Fun facts:
+Fuck you mike Fun facts:
 1. grew up in San Clemente
 1. 7 years in the navy
 1. phd/postdoc at UC Riverside
